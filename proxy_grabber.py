@@ -1,7 +1,7 @@
 from proxy_grabber import ProxyGrabber
 grabber = ProxyGrabber()
 
-# --- Grabbing proxies ---
+# --- For Grabbing proxies ---
 
 # Parsing proxy from different sources
 grabber.grab_proxies(proxy_limit=90)

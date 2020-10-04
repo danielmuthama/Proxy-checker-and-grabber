@@ -1,4 +1,4 @@
-### checks and grabs  several proxies at once
-> requirements
+### Checks and grabs  several proxies at once
+> Requirements
 
     $ pip3 install proxy-grabber
